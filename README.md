@@ -29,12 +29,14 @@
 ![Git Workflow](https://img.shields.io/badge/Git-Workflow-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Design & Modeling
+
 ![DrawIO](https://img.shields.io/badge/Draw.io-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD_Design-2496ED?style=for-the-badge&logo=diagram&logoColor=white)
 ![DFD](https://img.shields.io/badge/DFD-FF6F00?style=for-the-badge&logo=flowchart&logoColor=white)
 ![IDEF0](https://img.shields.io/badge/IDEF0-4285F4?style=for-the-badge&logo=architecture&logoColor=white)
 
 ### Testing
+
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### GUI
@@ -76,8 +78,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terabaytyf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Public Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terabaytyf&show_icons=true&theme=radical)
 
 ## Profile Views
 
-![](https://komarev.com/ghpvc/?username=terabaytyf&color=green)
+![Views](https://komarev.com/ghpvc/?username=terabaytyf&color=green)
